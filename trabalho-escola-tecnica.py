@@ -31,4 +31,29 @@ for nota in range (0,10+1):
     print( nota, " -> ",SE.count(nota) )
 print("Fim da Analise de dados")
 
+print('\nQuais foram os meses que mais tiveram furtos em 2020?')
+print ("\noutubro", "janeiro","fevereiro" ,"dezembro" ,"junho")
+outubro =[1]
+janeiro =[2]
+fevereiro =[3]
+dezembro =[4]
+junho=[5]
+SE=(outubro,janeiro,fevereiro,dezembro,junho)
 
+if len(outubro) ==1:
+      print("\n Foi outubro")
+else:
+      print(" \n N foi outubro")
+
+print ('\nQuais regiões do estado do Ceará tiveram mais casos'
+    'de crimes letais internacionais-CVLI, em 2020?')
+print ('\nregiãoM' , 'fortaleza', 'interiorS')
+regiãoM =[1]
+fortaleza =[2]
+interiorS =[3]
+SE=('regiãoM','fortaleza', 'interiorS')
+
+if len(fortaleza) ==2:
+     print(" n é fortaleza")
+else:
+     print("\n é fortaleza")
