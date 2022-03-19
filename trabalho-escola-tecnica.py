@@ -9,3 +9,9 @@ print("\nMenor valor:", min(SE) )
 print("Maior valor:" , max(SE) )
 print("media valores:", sum(SE)/len(SE) )
 
+print("\nQue nota de 0 a 10 daria para a segurança do estado?")
+SE=[4,5,6,2,3,2,4,5,3,4]
+print("\nResposta obtidas: ",SE)
+print("\nMenor valor:", min(SE) )
+print("Maior valor:" , max(SE) )
+print("media valores:", sum(SE)/len(SE) )
