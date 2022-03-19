@@ -57,3 +57,18 @@ if len(fortaleza) ==2:
      print(" n é fortaleza")
 else:
      print("\n é fortaleza")
+
+print("\nQuais foram os 5 AIS-Área Integrada de Segurança,"
+    "que mais tiveram crimes sexuais cometidos na capital no total durante 2020?")
+AIS2 =[79]
+AIS3 =[67]
+AIS6 =[97]
+AIS7 =[48]
+AIS9 =[67]
+SE=['AIS2', 'AIS3', 'AIS6', 'AIS7', 'AIS9']
+
+if len(AIS7) ==48:
+     print("\nAIS7 não é 48")
+else:
+     print("\nAIS7 é 48")
+
