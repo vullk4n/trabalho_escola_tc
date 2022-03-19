@@ -28,5 +28,7 @@ SE.sort ()
 print(SE)
 print("\nDistribuiçao de frequencia:")
 for nota in range (0,10+1):
-print( nota, " -> ",SE.count(nota) )
+    print( nota, " -> ",SE.count(nota) )
 print("Fim da Analise de dados")
+
+
