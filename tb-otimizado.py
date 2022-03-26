@@ -6,7 +6,6 @@ def print_answers(answers):
           f"    Maior valor:      {max(answers)}\n",
           f"    Média Aritmética: {sum(answers) / len(answers)}\n");
 
-
 print("Equipe Segurança: ",
       "Você se sente segura quando sai e quando está em casa?");
 answers = [1, 2, 6, 8, 1, 2, 8, 2, 8, 1];
